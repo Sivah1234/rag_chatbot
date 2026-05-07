@@ -1,7 +1,9 @@
-pandas
-langchain-community
+streamlit
+langchain
 langchain-core
+langchain-community
 langchain-groq
-langchain-groq
-langchain-text-splitters
 langgraph
+chromadb
+sentence-transformers
+huggingface-hub
