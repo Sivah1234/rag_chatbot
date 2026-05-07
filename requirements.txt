@@ -7,3 +7,8 @@ langgraph
 chromadb
 sentence-transformers
 huggingface-hub
+torch
+torchvision
+transformers
+pypdf
+python-dotenv
