@@ -1,0 +1,6 @@
+pandas
+langchain-community
+langchain-core
+langchain-groq
+langchain-text-splitters
+langgraph
